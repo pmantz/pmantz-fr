@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://pmantz.netlify.app/"
 languageCode = "en-us"
 theme = "hyde"
-title = "My New Hugo Site"
+title = "My site"
 [params]
 disqusShortname = ""
 googleAnalytics = ""
