@@ -2,6 +2,9 @@ baseURL = "https://pmantz.netlify.app/"
 languageCode = "en-us"
 theme = "hyde"
 title = "My site"
+[[menu.main]]
+name = "menu 2"
+weight = 2
 [params]
 disqusShortname = ""
 googleAnalytics = ""
